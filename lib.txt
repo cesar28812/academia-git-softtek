@@ -1,1 +1,2 @@
 Import lib
+import * from lib
