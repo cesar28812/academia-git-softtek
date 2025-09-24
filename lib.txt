@@ -1,2 +1,3 @@
 Import lib
 import * from lib
+import sync from async
