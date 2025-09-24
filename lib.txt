@@ -1,3 +1,4 @@
 Import lib
 import * from lib
 import sync from async
+import time from lib
