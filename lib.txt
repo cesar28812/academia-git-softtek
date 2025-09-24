@@ -1,2 +1,2 @@
 Import lib
-import * from lib
+import time from lib
